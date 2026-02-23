@@ -1,0 +1,61 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Main_Page",
+    "timestamp": "2026-02-23T07:50:38Z",
+    "dom_changes": {
+        "new_elements": [
+            "style||@keyframes mwe-popups-fade-in-up{0%{opacity:0;transform:translate(0,20px)}100%{o",
+            "form|[('action', '/w/index.php'), ('class', ['cdx-typeahead-search__form']), ('id', 'vector-sticky-search-form')]|",
+            "div|[('class', ['cdx-text-input', 'cdx-text-input--has-start-icon', 'cdx-text-input--status-default', 'cdx-search-input__text-input'])]|",
+            "div|[('class', ['cdx-menu', 'cdx-typeahead-search__menu']), ('style', 'display: none;')]|",
+            "div|[('class', ['cdx-search-input__input-wrapper'])]|",
+            "div|[('class', ['vector-typeahead-search-container']), ('data-v-app', '')]|",
+            "input|[('accesskey', ['f']), ('aria-autocomplete', 'list'), ('aria-expanded', 'false'), ('aria-label', 'Search Wikipedia'), ('aria-owns', 'v-0'), ('autocapitalize', 'none'), ('autocomplete', 'off'), ('class', ['cdx-text-input__input', 'cdx-text-input__input--has-value']), ('name', 'search'), ('placeholder', 'Search Wikipedia'), ('role', 'combobox'), ('search-results-label', 'Search results'), ('size', '1'), ('title', 'Search Wikipedia [alt-f]'), ('type', 'search')]|",
+            "path|[('d', 'M12.2 13.6a7 7 0 111.4-1.4l5.4 5.4-1.4 1.4zM3 8a5 5 0 1010 0A5 5 0 003 8')]|",
+            "button|[('class', ['cdx-button', 'cdx-button--action-default', 'cdx-button--weight-normal', 'cdx-button--size-medium', 'cdx-button--framed', 'cdx-search-input__end-button'])]|Search",
+            "g||",
+            "div|[('class', ['cdx-search-input', 'cdx-search-input--has-end-button', 'cdx-typeahead-search__input'])]|",
+            "svg|[('aria-hidden', 'true'), ('height', '20'), ('viewbox', '0 0 20 20'), ('width', '20'), ('xmlns', 'http://www.w3.org/2000/svg')]|",
+            "div|[('class', ['cdx-typeahead-search', 'cdx-typeahead-search--show-thumbnail', 'cdx-typeahead-search--auto-expand-width', 'vector-typeahead-search', 'vector-typeahead-search--active'])]|",
+            "style||@media screen{ .cdx-dialog.skin-dialog-search{position:fixed;top:0;left:0;right:",
+            "ul|[('aria-label', 'Search results'), ('class', ['cdx-menu__listbox']), ('id', 'v-0'), ('role', 'listbox'), ('tabindex', '-1')]|",
+            "span|[('class', ['cdx-icon', 'cdx-icon--medium', 'cdx-text-input__icon-vue', 'cdx-text-input__start-icon'])]|",
+            "input|[('name', 'wprov'), ('type', 'hidden'), ('value', 'acrw1_-1')]|",
+            "div|[('class', ['cdx-typeahead-search', 'cdx-typeahead-search--show-thumbnail', 'vector-typeahead-search'])]|",
+            "form|[('action', '/w/index.php'), ('class', ['cdx-typeahead-search__form']), ('id', 'searchform')]|",
+            "style||.imeselector{position:absolute;background-image:url(\"data:image/svg+xml,%3Csvg x",
+            "div|[('class', ['vector-typeahead-search-wrapper'])]|",
+            "input|[('aria-autocomplete', 'list'), ('aria-expanded', 'false'), ('aria-label', 'Search Wikipedia'), ('aria-owns', 'v-0'), ('autocomplete', 'off'), ('class', ['cdx-text-input__input']), ('name', 'search'), ('placeholder', 'Search Wikipedia'), ('role', 'combobox'), ('search-results-label', 'Search results'), ('size', '1'), ('type', 'search')]|",
+            "style||.uls-trigger{background:url(/w/extensions/UniversalLanguageSelector/lib/jquery.u"
+        ],
+        "removed_elements": [
+            "div|[('class', ['cdx-typeahead-search', 'cdx-typeahead-search--show-thumbnail'])]|",
+            "form|[('action', '/w/index.php'), ('class', ['cdx-search-input', 'cdx-search-input--has-end-button']), ('id', 'searchform')]|",
+            "div|[('class', ['cdx-typeahead-search', 'cdx-typeahead-search--show-thumbnail', 'cdx-typeahead-search--auto-expand-width'])]|",
+            "input|[('autocomplete', 'off'), ('class', ['cdx-text-input__input', 'mw-searchInput']), ('name', 'search'), ('placeholder', 'Search Wikipedia'), ('type', 'search')]|",
+            "form|[('action', '/w/index.php'), ('class', ['cdx-search-input', 'cdx-search-input--has-end-button']), ('id', 'vector-sticky-search-form')]|",
+            "div|[('class', ['cdx-search-input__input-wrapper']), ('data-search-loc', 'header-moved'), ('id', 'simpleSearch')]|",
+            "div|[('class', ['cdx-text-input', 'cdx-text-input--has-start-icon'])]|",
+            "input|[('accesskey', ['f']), ('aria-label', 'Search Wikipedia'), ('autocapitalize', 'none'), ('autocomplete', 'off'), ('class', ['cdx-text-input__input', 'mw-searchInput']), ('id', 'searchInput'), ('name', 'search'), ('placeholder', 'Search Wikipedia'), ('spellcheck', 'false'), ('title', 'Search Wikipedia [alt-f]'), ('type', 'search')]|",
+            "div|[('class', ['cdx-search-input__input-wrapper']), ('data-search-loc', 'header-moved')]|",
+            "div|[('class', ['vector-typeahead-search-container'])]|",
+            "button|[('class', ['cdx-button', 'cdx-search-input__end-button'])]|Search",
+            "span|[('class', ['cdx-text-input__icon', 'cdx-text-input__start-icon'])]|",
+            "style||.oo-ui-icon-edit,.mw-ui-icon-edit:before{background-image:url(\"data:image/svg+xm"
+        ]
+    },
+    "css_changes": [],
+    "screenshot_change": {
+        "detected": true,
+        "region": [
+            449,
+            14,
+            891,
+            710
+        ]
+    },
+    "patterns": [
+        "\u26a0 Popup / Forced interaction detected (new DOM element)",
+        "\u26a0 Visual overlay or layout change detected in region (449, 14, 891, 710)"
+    ],
+    "severity": "LOW"
+}
